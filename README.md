@@ -5,7 +5,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**Agricure** is an AI-powered plant disease detection web application that helps farmers and gardeners identify diseases in tomato, potato, and bell pepper plants. The system provides instant diagnosis, treatment recommendations, and connects users with local agricultural product suppliers.
+**Agricure** it is an AI-powered plant disease detection web application that helps farmers and gardeners identify diseases in tomato, potato, and bell pepper plants. The system provides instant diagnosis, treatment recommendations, and connects users with local agricultural product suppliers.
 
 ## 🌟 Features
 
